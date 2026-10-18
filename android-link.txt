@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://manufacturer-norfolk-expect-incidents.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://initiative-pop-assuming-skirts.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-18 13:54:35 UTC
+Created   : 2026-10-18 17:54:36 UTC
 =======================================================
