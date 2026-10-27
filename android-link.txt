@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chelsea-mustang-maintained-paxil.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://chronic-thorough-nowhere-discrimination.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-26 20:26:51 UTC
+Created   : 2026-10-27 03:26:53 UTC
 =======================================================
